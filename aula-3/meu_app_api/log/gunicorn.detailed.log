@@ -1,0 +1,47 @@
+[2025-02-21 15:21:42,250] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.80.10.153:5000 - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:21:42,251] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:18,839] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.80.10.153:5000 - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:18,840] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:18,843] INFO _log() L97    * Restarting with stat - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:21,796] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:43:21] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:21,802] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:43:21] "[32mGET /openapi HTTP/1.1[0m" 308 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:43:21,811] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:43:21] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:13,330] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:13] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:14,079] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:14] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:14,455] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:14] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:14,846] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:14] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:15,255] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:15] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:19,342] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:19] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:19,771] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:19] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:20,354] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:20] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:29,732] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.80.10.153:5000 - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:29,740] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:29,743] INFO _log() L97    * Restarting with stat - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:32,147] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:32] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:44:32,156] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:44:32] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\.pyenv\pyenv-win\versions\3.12.1\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:28,515] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.80.10.153:5000 - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:28,517] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:28,523] INFO _log() L97    * Restarting with stat - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,516] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,527] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,662] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/rapidoc/images/rapidoc.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,662] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,662] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/scalar/images/scalar.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,662] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/redoc/images/redoc.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,669] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/elements/images/elements.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:31,672] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:31] "GET /openapi/swagger/images/swagger.svg HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:36,683] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:36] "GET /openapi/rapipdf HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:36,699] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:36] "GET /openapi/rapipdf/js/rapipdf-min.js HTTP/1.1" 200 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-02-21 15:47:36,775] INFO _log() L97   127.0.0.1 - - [21/Feb/2025 15:47:36] "[36mGET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\00699546\Documents\Códigos\puc_rio\desenvolvimento-full-stack\desenvolvimento-full-stack-basico\venv\Lib\site-packages\werkzeug\_internal.py L97  
