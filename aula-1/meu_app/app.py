@@ -7,6 +7,7 @@ from model.comentario import Comentario
 
 
 app = Flask(__name__)
+app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 CORS(app)
 
@@ -85,3 +86,13 @@ def add_comentario(produto_id):
     produto.adiciona_comentario(comentario)
     session.commit()
     return render_template("produto.html", produto=produto), 200
+
+@app.route('/produtos', methods=['GET'])
+def get_produtos():
+    session = Session()
+    produtos = session.query(Produto).all()
+    produto_list = [
+        {"nome": p.nome, "quantidade": p.quantidade, "valor": p.valor}
+        for p in produtos
+    ]
+    return {"produtos": produto_list}, 200
