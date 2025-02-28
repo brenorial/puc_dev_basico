@@ -1,4 +1,6 @@
-# Minha API
+# Ambiente de TESTES
+
+Relembrar de sempre fazer PR antes de finalizar o código
 
 Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Full Stack Básico** 
 
