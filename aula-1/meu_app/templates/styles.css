@@ -1,0 +1,52 @@
+/* Definindo estilo para o corpo da página */
+body {
+    font-family: tahoma, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #004467; /* Cor de fundo */
+    color: white; /* Cor do texto */
+}
+
+/* Estilizando o header */
+header {
+    background-color: #004467; /* Cor do fundo do header */
+    padding: 20px 0; /* Espacamento do título */
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem; /* Tamanho do título */
+}
+
+/* Estilo para a seção de adicionar novo item */
+.novoItem {
+    text-align: center;
+    padding: 20px;
+}
+
+.novoItem input {
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 60%;
+}
+
+.novoItem .addBtn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.novoItem .addBtn:hover {
+    background-color: #ff4500; /* Muda a cor quando o botão é pressionado */
+}
