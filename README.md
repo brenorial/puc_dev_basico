@@ -1,5 +1,8 @@
 # Projeto da PUC-RIO - Desenvolvimento Full Stack Básico
 
+Essa branch é desenvolvida para testes. 
+Lembrar de sempre fazer pull request quando finalizado, testado e aprovadas as inovações.
+
 Este é um projeto desenvolvido como parte da disciplina **Desenvolvimento Full Stack Básico** da **PUC-RIO**. O objetivo é construir uma aplicação web utilizando **Python (Flask)** e **SQLAlchemy**, explorando conceitos fundamentais de backend, banco de dados e APIs.
 
 ## O que este projeto faz?
